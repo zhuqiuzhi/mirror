@@ -1,5 +1,6 @@
 # mirror
-开源镜像站列表
+
+## 开源镜像站列表
 
 * http://mirrors.ustc.edu.cn/
 
@@ -16,3 +17,7 @@ mirrors.ustc.edu.cn 是 Debian, Ubuntu, Fedora, Archlinux, CentOS 等多个发�
 * http://mirror.azk8s.cn/
 
 开源社开源镜像站点
+
+## Docker Registry Mirrors
+
+* http://mirrors.ustc.edu.cn/help/dockerhub.html 感谢中国科学技术大学
