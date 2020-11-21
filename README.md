@@ -10,9 +10,9 @@ mirrors.ustc.edu.cn 是 Debian, Ubuntu, Fedora, Archlinux, CentOS 等多个发�
 阿里云官方镜像站
 
 * https://mirrors.163.com/
+
 网易开源镜像站
 
 * http://mirror.azk8s.cn/
 
 开源社开源镜像站点
-
